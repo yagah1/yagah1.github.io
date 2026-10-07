@@ -3,7 +3,7 @@
 Website: https://yagah1.github.io
 Department of Science and Mathematics, Diabene SHTS (GES), Ghana 
 Email: batujonas.18@gmail.com | yagah1institute.edu@gmail.com 
-ORCID: 0009-0008-1676-6584
+**ORCID:**https://orcid.org/0009-0008-1676-6584
 
 ## Permanent Research Archive (8 Works)
 
